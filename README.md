@@ -7,3 +7,5 @@ Personal project I made using _React JS_ and _Material UI_ . I used _React Route
 The functionality will be better taken care of when I will link this app to the specified ones.
 
 For now, I find this more than enough & this project help me get more familiar wth **_Router_** along with _ES7 syntax_.
+
+## ** To be continued ... **
